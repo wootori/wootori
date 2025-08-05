@@ -23,7 +23,7 @@
 
 </div>
 
-
+<!--
 ---
 
 ## 💻 Tech Stack
@@ -99,7 +99,7 @@
 [![Artillery Guide](https://img.shields.io/badge/Artillery_Guide-FF6B6B?style=for-the-badge&logo=artillery&logoColor=white)](https://scandalous-price-b4f.notion.site/b781ddbcefe244349a43f3a983708267)
 
 ---
-
+-->
 ## 📫 Connect with Me
 
 <div align="center">

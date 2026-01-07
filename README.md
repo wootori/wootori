@@ -14,13 +14,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wootori&show_icons=true&theme=radical)](https://github.com/wootori/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wootori&layout=compact&theme=radical)](https://github.com/wootori/github-readme-stats)
-
-</div>
 
 <!--
 ---
@@ -100,12 +93,12 @@
 ---
 -->
 ## 📫 Connect with Me
-
+<!--
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkgkwlsdn123@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)
-
+-->
 📧 **gkgkwlsdn123@gmail.com**
 
 </div>

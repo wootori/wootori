@@ -1,114 +1,78 @@
-
 ## 🚀 About Me
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wootori&color=blueviolet&style=flat-square&label=Profile+Views)
 
-안녕하세요! 저는 **한국**에 거주하는 **Devops Developer**입니다.  
-고품질의 확장 가능한 웹 애플리케이션 구축을 전문으로 하며, 코딩에 대한 열정과 컴퓨터 과학에 대한 탄탄한 기초를 바탕으로 역동적이고 빠른 환경에서 성장하고 있습니다.
+안녕하세요! 👋  
+저는 **대한민국**에서 활동하는 **DevOps & Platform Engineer**입니다.
 
-🔹 **Kubernetes**, **cloud, Network** 전문  
-🔹 **확장성**과 **성능**을 고려한 백엔드 설계  
+컨테이너 기반 인프라를 설계하고 운영하며,
+**Kubernetes**, **GitOps**, **CI/CD**, **Cloud Native** 환경을 구축하는 일을 하고 있습니다.
 
+단순히 애플리케이션을 배포하는 것이 아니라, **안정적이고 확장 가능한 플랫폼을 설계하고 운영하는 것**에 집중하고 있습니다.
 
----
+서비스를 단순히 배포하는 것이 아니라,
+**자동화**, **확장성**, **관측성(Observability)**, **보안**을 함께 고려한 플랫폼을 만드는 것을 좋아합니다.
 
-## 📊 GitHub Stats
-
-
-<!--
----
-
-## 💻 Tech Stack
-
-### 🔧 Languages
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### ⚙️ Backend & Database
-<div align="center">
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-</div>
-
-### 🎨 Frontend & Mobile
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & DevOps
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-### 🔍 Security & Reverse Engineering
-<div align="center">
-
-![Frida](https://img.shields.io/badge/Frida-E95420?style=for-the-badge&logo=frida&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-
-**Reverse Engineering Tools:** Frida, Ghidra, Jadx-gui, APKTool  
-**Networking Tools:** Wireshark, TCPDump  
-**Mobile Debugging:** ADB Shell
+현재는 Kubernetes 기반 플랫폼 구축을 중심으로 GitOps, CI/CD, Observability, 인증 체계, 클라우드 인프라를 설계하고 운영하고 있으며, 운영 자동화와 개발 생산성을 높이는 플랫폼 엔지니어링에 관심이 많습니다.
 
 ---
 
-## 📚 Learning Resources
+### ⚡ 관심 분야
 
-### 🐳 Docker
-[![Docker Guide](https://img.shields.io/badge/Docker_Guide-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://scandalous-price-b4f.notion.site/0781150a475644bfbad60270500d8915)
-
-### ⚡ Artillery (Load Testing)
-[![Artillery Guide](https://img.shields.io/badge/Artillery_Guide-FF6B6B?style=for-the-badge&logo=artillery&logoColor=white)](https://scandalous-price-b4f.notion.site/b781ddbcefe244349a43f3a983708267)
-
----
--->
-## 📫 Connect with Me
-<!--
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gkgkwlsdn123@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Spring-2901e549078540bdb86a4ed603701c97)
--->
-📧 **gkgkwlsdn123@gmail.com**
-
-</div>
+- ☸️ Kubernetes Platform
+- 🚀 GitOps (ArgoCD)
+- 🔄 CI/CD Automation
+- 🐳 Container Platform
+- ☁️ Cloud Native Architecture
+- 📊 Monitoring & Observability
+- 🔐 DevSecOps & Identity
+- 🌐 Linux · Network · Infrastructure
 
 ---
 
-<div align="center">
+### 🛠 현재 주로 사용하는 기술
 
-### 🌟 Thank you for visiting my profile! 
+**Platform**
 
-프로젝트를 확인해보시고 궁금한 점이나 협업 아이디어가 있으시면 언제든 연락주세요! 🚀
+`Kubernetes` · `Docker` · `RKE2` · `Helm` · `Traefik`
 
-</div>
+**DevOps**
+
+`GitLab CI/CD` · `ArgoCD` · `Harbor` · `Ansible`
+
+**Observability**
+
+`Prometheus` · `Grafana` · `Loki` · `Tempo` · `OpenTelemetry`
+
+**Security**
+
+`Keycloak` · `OAuth2` · `OIDC`
+
+**Database**
+
+`PostgreSQL` · `Redis` · `MariaDB`
+
+---
+
+### 🎯 현재 집중하고 있는 분야
+
+- Kubernetes 기반 플랫폼 설계 및 운영
+- GitOps 기반 배포 환경 구축
+- CI/CD 자동화
+- Observability 플랫폼 구축
+- DevSecOps
+- Self-hosted Infrastructure
+- Infrastructure as Code
+
+---
+
+### 💡 Engineering Philosophy
+
+> **자동화할 수 있는 것은 자동화한다.**  
+> **반복 가능한 인프라를 만든다.**  
+> **관측 가능한 시스템을 구축한다.**  
+> **안정보다 더 중요한 것은 예측 가능한 운영이다.**
+
+새로운 기술을 빠르게 도입하는 것보다 **운영 가능한 구조를 만드는 것**을 중요하게 생각합니다.
+
+서비스를 운영하는 사람과 개발하는 사람이 모두 편해질 수 있는 플랫폼을 만드는 것이 목표입니다.
